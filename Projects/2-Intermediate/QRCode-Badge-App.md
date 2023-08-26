@@ -1,4 +1,5 @@
 # QRCode Badge Generator
+can be used as the final project
 
 **Tier:** 2-Intermediate
 
